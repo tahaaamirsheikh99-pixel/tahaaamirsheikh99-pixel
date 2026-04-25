@@ -1,27 +1,48 @@
-# Hi, I'm Taha Aamir Sheikh <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmptbmZ6eXJ6eXJ6eXJ6eXJ6eXJ6eXJ6eXJ6eXJ6eXJ6eXJ6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/hvRJCLFzcasr6/giphy.gif" width="25px">
+# <p align="center">Taha Aamir Sheikh</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Frontend--Developer-38b2ac?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Intern--Naqvid-2d3748?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NUML--Student-e53e3e?style=for-the-badge" />
+</p>
 
-I am a **Frontend Developer** and an intern at **Naqvid**, currently pursuing my studies at **NUML**. I love building sleek, responsive, and user-centric web applications.
-
----
-
-### <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/target.svg" width="20" height="20" /> Current Focus
-- Working on mastering the **MERN Stack**
-- Learning advanced state management with **Zustand**
-- Building modern UIs using **Next.js** and **Tailwind CSS**
-
-### <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/cpu.svg" width="20" height="20" /> Tech Stack & Tools
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,js,mongodb,express,nodejs,github,vscode,vercel" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,js,mongodb,express,nodejs,github,vscode,vercel&theme=dark" />
   </a>
 </p>
 
-### <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/book-open.svg" width="20" height="20" /> Beyond Coding
-When I'm not debugging, I’m usually exploring contemporary fiction or emotional narratives.
+---
+
+### ⚡ Professional Summary
+I am a dedicated **Frontend Developer** currently interning at **Naqvid**. My expertise lies in building scalable, high-performance web applications using the modern JavaScript ecosystem. I focus on creating seamless user experiences through clean code and efficient state management.
 
 ---
 
-### <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/bar-chart-3.svg" width="20" height="20" /> Analytics
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=tahaaamirsheikh99-pixel&show_icons=true&theme=transparent&hide_border=true&title_color=38b2ac&icon_color=38b2ac&text_color=ffffff&hide_title=true" alt="Taha's GitHub stats" />
+### 🛠️ Core Competencies
+| Feature | Technologies |
+| :--- | :--- |
+| **Frontend** | React, Next.js 14, Tailwind CSS |
+| **Backend** | Node.js, Express, MongoDB |
+| **State** | Zustand, Context API |
+| **Tools** | Git, Vercel, Postman, VS Code |
+
+---
+
+### 📊 GitHub Ecosystem
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tahaaamirsheikh99-pixel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38b2ac&icon_color=38b2ac&text_color=c9d1d9" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahaaamirsheikh99-pixel&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38b2ac&text_color=c9d1d9" width="44%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tahaaamirsheikh99-pixel&theme=tokyonight&hide_border=true&background=0D1117&ring=38b2ac&fire=38b2ac&currStreakNum=38b2ac" width="93%" />
+</p>
+
+---
+
+### 📖 Personal Interests
+Outside of technical architecture, I am an avid reader of contemporary fiction. I find that deep storytelling in literature helps me build more empathetic and human-centric software solutions.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/github.svg" width="20" height="20" /> 
 </p>
