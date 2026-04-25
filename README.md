@@ -8,11 +8,11 @@ I am a **Frontend Developer** and an intern at **Naqvid**, currently pursuing my
 - ⚡ Building modern UIs using **Next.js** and **Tailwind CSS**.
 
 ### 🛠 Tech Stack & Tools
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,js,html,css,github,vscode,vercel,mongodb" />
+  </a>
+</p>
 
 ### 📚 Beyond Coding
 When I'm not debugging, you'll likely find me reading contemporary fiction or exploring emotional narratives.
@@ -20,4 +20,6 @@ When I'm not debugging, you'll likely find me reading contemporary fiction or ex
 ---
 
 ### 📈 GitHub Stats
-![Taha's GitHub stats](https://github-readme-stats.vercel.app/api?username=tahaaamirsheikh99-pixel&show_icons=true&theme=dark)
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=tahaaamirsheikh99-pixel&show_icons=true&theme=transparent&hide_border=true&title_color=38b2ac&icon_color=38b2ac&text_color=ffffff" alt="Taha's GitHub stats" />
+</p>
