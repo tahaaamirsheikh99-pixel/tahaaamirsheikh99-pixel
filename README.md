@@ -11,11 +11,6 @@ Building scalable, high-performance web applications with a TypeScript-first wor
 [Email](mailto:tahaaamirsheikh99@gmail.com)
 
 <br/>
-
-<img src="https://img.shields.io/badge/Primary-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Framework-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/UI-React-61DAFB?style=for-the-badge&logo=react&logoColor=000000" />
-
 <br/><br/>
 
 <img src="https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,nodejs,express,mongodb,git,github,vercel" />
