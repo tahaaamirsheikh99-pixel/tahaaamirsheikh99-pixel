@@ -58,7 +58,7 @@ Scalable components designed for rapid product development.
 
 <img src="https://github-readme-stats.vercel.app/api?username=tahaaamirsheikh99-pixel&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahaaamirsheikh99-pixel&layout=compact&theme=transparent&hide_border=true&langs_count=8&hide=html,css&custom_title=Most%20Used%20Languages&title_color=58a6ff&text_color=c9d1d9" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahaaamirsheikh99-pixel&layout=compact&theme=transparent&hide_border=true&langs_count=8&hide=html,css&custom_title=Most%20Used%20Languages&title_color=58a6ff&text_color=c9d1d9&langs=TypeScript,JavaScript,React,Next.js,Node.js,MongoDB" width="48%" />
 
 </div>
 
