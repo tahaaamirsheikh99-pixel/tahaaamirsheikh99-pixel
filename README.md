@@ -2,79 +2,77 @@
 
 # Taha Aamir Sheikh
 
-### Frontend Developer | React • Next.js • TypeScript
+Frontend Engineer specializing in React, Next.js, and TypeScript.
 
-Building modern, scalable and beautiful web apps with clean code.
+Building performant, scalable, and user-focused web applications.
 
-[Portfolio](https://taha-sparkle-port.vercel.app/) • 
-[LinkedIn](https://www.linkedin.com/in/taha-aamir-sheikh/) • 
+[Portfolio](https://taha-sparkle-port.vercel.app/) •
+[LinkedIn](https://www.linkedin.com/in/taha-aamir-sheikh/) •
 [Email](mailto:tahaaamirsheikh99@gmail.com)
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,git,github,vscode,vercel" />
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,nodejs,express,mongodb,git,github,vercel" />
 
 </div>
 
 ---
 
-## 🚀 About Me
+## Profile
 
-- Frontend Developer focused on **React + Next.js ecosystem**
-- Currently Intern @ **Naqvid**
-- Studying at **NUML**
-- Passionate about turning ideas into polished products
-- Love performance optimization, UI/UX, responsive design
+Frontend Developer focused on creating modern interfaces with clean architecture and strong user experience.
 
----
+Currently working as an Intern at Naqvid while pursuing studies at NUML.
 
-## 🛠 Tech Stack
-
-### Frontend
-React.js • Next.js • TypeScript • JavaScript • Tailwind CSS
-
-### Backend
-Node.js • Express.js • MongoDB
-
-### Tools
-Git • GitHub • Postman • Vercel • VS Code
+Primary focus areas include performance, scalability, maintainability, and polished UI systems.
 
 ---
 
-## 📌 Featured Projects
+## Stack
 
-### 🔹 Portfolio Website
-Modern personal portfolio with animations & responsive design.
-
-### 🔹 Full Stack App
-Authentication, dashboard, API integration using MERN stack.
-
-### 🔹 UI Components Library
-Reusable modern components built with Tailwind CSS.
+| Category | Technologies |
+|---------|--------------|
+| Frontend | React, Next.js, TypeScript, JavaScript |
+| Styling | Tailwind CSS, CSS Modules, Responsive Design |
+| Backend | Node.js, Express.js, MongoDB |
+| Tools | Git, GitHub, Postman, VS Code, Vercel |
 
 ---
 
-## 📊 GitHub Stats
+## Selected Work
+
+### Portfolio Platform
+Personal portfolio focused on performance, responsiveness, and clean presentation.
+
+### Full Stack Dashboard
+Authentication, protected routes, APIs, state management, dashboard workflows.
+
+### Reusable UI System
+Scalable components designed for rapid product development.
+
+---
+
+## GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=tahaaamirsheikh99-pixel&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=tahaaamirsheikh99-pixel&show_icons=true&theme=transparent&hide_border=true" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahaaamirsheikh99-pixel&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahaaamirsheikh99-pixel&layout=compact&theme=transparent&hide_border=true" width="48%" />
 
 </div>
 
 ---
 
-## ⚡ Current Focus
+## Current Direction
 
-- Advanced React Patterns  
-- Scalable Frontend Architecture  
-- Full Stack Development  
-- Freelance Opportunities  
+Advanced React Patterns  
+Scalable Frontend Systems  
+Full Stack Product Development  
+Open Opportunities
 
 ---
 
-## 🤝 Let's Connect
+## Contact
 
-I'm always open to collaborations, internships, freelance work, and exciting ideas.
+Open to internships, freelance work, collaborations, and frontend engineering opportunities.
