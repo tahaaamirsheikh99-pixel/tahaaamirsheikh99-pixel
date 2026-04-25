@@ -1,11 +1,15 @@
 <div align="center">
 
-# Taha Aamir Sheikh
+# TAHA AAMIR SHEIKH
 **Frontend Engineer • Next.js & TypeScript Specialist**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-38b2ac?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.vercel.app)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tahaaamirsheikh99@gmail.com)
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</p>
+
+[**Website**](https://taha-sparkle-port.vercel.app/) • [**LinkedIn**](https://www.linkedin.com/in/taha-aamir-sheikh/) • [**Email**](mailto:tahaaamirsheikh99@gmail.com)
 
 <br/>
 
@@ -15,31 +19,31 @@
 
 ---
 
-### 01 . About Me
-I am a **Frontend Developer** and an intern at **Naqvid**, currently pursuing studies at **NUML**. I specialize in building high-performance web applications using the **MERN stack** and **Next.js**. I am dedicated to writing clean, maintainable code and architecting intuitive user experiences.
+### ⚡ Architectural Focus
+I am a **Frontend Developer** and an intern at **Naqvid**, currently pursuing studies at **NUML**. I bridge the gap between complex backend logic and sleek, user-centric interfaces. My current workflow is centered around **TypeScript** and **Next.js 14**, ensuring type-safety and performance at scale.
 
 ---
 
-### 02 . Technical Expertise
-| System | Technologies |
+### 🛠️ Technical Ecosystem
+| Core Stack | Tools & Deployment |
 | :--- | :--- |
-| **Development** | TypeScript, JavaScript (ES6+), Next.js 14, React 18 |
-| **Styling** | Tailwind CSS, Framer Motion, CSS Modules |
-| **Backend** | Node.js, Express.js, MongoDB, Mongoose |
-| **Workflow** | Git/GitHub, Vercel, Postman, Jest |
+| **Frontend:** Next.js (App Router), React 18, TypeScript | **Version Control:** Git, GitHub Actions |
+| **Styling:** Tailwind CSS, Framer Motion, Radix UI | **Infrastructure:** Vercel, Netlify |
+| **Backend:** Node.js, Express.js, MongoDB | **Testing:** Postman, Jest |
 
 ---
 
-### 03 . Engineering Philosophy
-Beyond technical architecture, I am an avid reader of contemporary fiction. I believe that analyzing complex narratives in literature directly translates to building more empathetic and human-centric software.
-
----
-
-### 04 . GitHub Activity
+### 📊 Engineering Metrics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tahaaamirsheikh99-pixel&show_icons=true&theme=transparent&hide_border=true&title_color=38b2ac&icon_color=38b2ac&text_color=ffffff&hide_rank=true" width="400px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tahaaamirsheikh99-pixel&show_icons=true&theme=transparent&hide_border=true&title_color=38b2ac&icon_color=38b2ac&text_color=ffffff&hide_rank=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahaaamirsheikh99-pixel&layout=compact&theme=transparent&hide_border=true&title_color=38b2ac&text_color=ffffff&langs_count=5" width="45%" />
 </div>
 
+---
+
+### 📖 Personal Philosophy
+Beyond system architecture, I find inspiration in contemporary fiction. I believe that the narrative depth found in literature directly informs how we build more intuitive, human-centric software solutions.
+
 <p align="right">
-  <sub><i>Engineered by Taha Aamir Sheikh // 2026</i></sub>
+  <sub><i>Refined by Taha Aamir // 2026</i></sub>
 </p>
