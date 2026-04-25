@@ -1,50 +1,45 @@
 <div align="center">
 
 # Taha Aamir Sheikh
-**Frontend Developer | Next.js & MERN Specialist**
+**Frontend Engineer • Next.js & TypeScript Specialist**
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Frontend--Developer-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Intern--Naqvid-2d3748?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/NUML--Student-e53e3e?style=for-the-badge" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Portfolio](https://img.shields.io/badge/Portfolio-38b2ac?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.vercel.app)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tahaaamirsheikh99@gmail.com)
 
-<img src="https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,nodejs,mongodb,express,github,vscode,vercel&theme=dark" />
+<br/>
+
+<img src="https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,nodejs,mongodb,express,git,vscode,vercel&perline=10" />
 
 </div>
 
 ---
 
-### <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/terminal.svg" width="22" height="22" /> Executive Summary
-I am a dedicated **Frontend Developer** currently interning at **Naqvid**. My expertise lies in building scalable, high-performance web applications using **TypeScript**, **Next.js 14**, and the **MERN stack**. I specialize in creating seamless user experiences through architectural clean code and efficient state management.
+### 01 . About Me
+I am a **Frontend Developer** and an intern at **Naqvid**, currently pursuing studies at **NUML**. I specialize in building high-performance web applications using the **MERN stack** and **Next.js**. I am dedicated to writing clean, maintainable code and architecting intuitive user experiences.
 
 ---
 
-### <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/layers.svg" width="22" height="22" /> Core Competencies
-| Domain | Stack |
+### 02 . Technical Expertise
+| System | Technologies |
 | :--- | :--- |
-| **Advanced Frontend** | TypeScript, Next.js (App Router), React 18, Tailwind CSS |
-| **Backend / Database** | Node.js, Express.js, MongoDB (Mongoose) |
-| **State Management** | Zustand, Redux Toolkit, Context API |
-| **DevOps / Tools** | Git, Vercel, Postman, JWT Authentication |
+| **Development** | TypeScript, JavaScript (ES6+), Next.js 14, React 18 |
+| **Styling** | Tailwind CSS, Framer Motion, CSS Modules |
+| **Backend** | Node.js, Express.js, MongoDB, Mongoose |
+| **Workflow** | Git/GitHub, Vercel, Postman, Jest |
 
 ---
 
-### <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/activity.svg" width="22" height="22" /> Development Metrics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahaaamirsheikh99-pixel&layout=compact&theme=tokyonight&hide_border=true&langs_count=5&bg_color=0D1117&title_color=007ACC&text_color=c9d1d9&icon_color=007ACC" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=tahaaamirsheikh99-pixel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=007ACC&icon_color=007ACC&text_color=c9d1d9" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tahaaamirsheikh99-pixel&theme=tokyonight&hide_border=true&background=0D1117&ring=007ACC&fire=007ACC&currStreakNum=007ACC" width="95%" />
-</p>
+### 03 . Engineering Philosophy
+Beyond technical architecture, I am an avid reader of contemporary fiction. I believe that analyzing complex narratives in literature directly translates to building more empathetic and human-centric software.
 
 ---
 
-### <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/book-marked.svg" width="22" height="22" /> Personal Interests
-Outside of system architecture, I am an avid reader of contemporary fiction. I believe that analyzing complex narratives in literature directly translates to writing more intuitive and human-centric software.
+### 04 . GitHub Activity
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tahaaamirsheikh99-pixel&show_icons=true&theme=transparent&hide_border=true&title_color=38b2ac&icon_color=38b2ac&text_color=ffffff&hide_rank=true" width="400px" />
+</div>
 
 <p align="right">
-  <sub><i>Last updated: April 2026</i></sub>
+  <sub><i>Engineered by Taha Aamir Sheikh // 2026</i></sub>
 </p>
