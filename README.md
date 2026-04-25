@@ -1,48 +1,50 @@
-# <p align="center">Taha Aamir Sheikh</p>
+<div align="center">
+
+# Taha Aamir Sheikh
+**Frontend Developer | Next.js & MERN Specialist**
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Frontend--Developer-38b2ac?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Frontend--Developer-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Intern--Naqvid-2d3748?style=for-the-badge" />
   <img src="https://img.shields.io/badge/NUML--Student-e53e3e?style=for-the-badge" />
 </p>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,js,mongodb,express,nodejs,github,vscode,vercel&theme=dark" />
-  </a>
-</p>
+<img src="https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,nodejs,mongodb,express,github,vscode,vercel&theme=dark" />
+
+</div>
 
 ---
 
-### ⚡ Professional Summary
-I am a dedicated **Frontend Developer** currently interning at **Naqvid**. My expertise lies in building scalable, high-performance web applications using the modern JavaScript ecosystem. I focus on creating seamless user experiences through clean code and efficient state management.
+### <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/terminal.svg" width="22" height="22" /> Executive Summary
+I am a dedicated **Frontend Developer** currently interning at **Naqvid**. My expertise lies in building scalable, high-performance web applications using **TypeScript**, **Next.js 14**, and the **MERN stack**. I specialize in creating seamless user experiences through architectural clean code and efficient state management.
 
 ---
 
-### 🛠️ Core Competencies
-| Feature | Technologies |
+### <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/layers.svg" width="22" height="22" /> Core Competencies
+| Domain | Stack |
 | :--- | :--- |
-| **Frontend** | React, Next.js 14, Tailwind CSS |
-| **Backend** | Node.js, Express, MongoDB |
-| **State** | Zustand, Context API |
-| **Tools** | Git, Vercel, Postman, VS Code |
+| **Advanced Frontend** | TypeScript, Next.js (App Router), React 18, Tailwind CSS |
+| **Backend / Database** | Node.js, Express.js, MongoDB (Mongoose) |
+| **State Management** | Zustand, Redux Toolkit, Context API |
+| **DevOps / Tools** | Git, Vercel, Postman, JWT Authentication |
 
 ---
 
-### 📊 GitHub Ecosystem
+### <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/activity.svg" width="22" height="22" /> Development Metrics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tahaaamirsheikh99-pixel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38b2ac&icon_color=38b2ac&text_color=c9d1d9" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahaaamirsheikh99-pixel&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38b2ac&text_color=c9d1d9" width="44%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahaaamirsheikh99-pixel&layout=compact&theme=tokyonight&hide_border=true&langs_count=5&bg_color=0D1117&title_color=007ACC&text_color=c9d1d9&icon_color=007ACC" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tahaaamirsheikh99-pixel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=007ACC&icon_color=007ACC&text_color=c9d1d9" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tahaaamirsheikh99-pixel&theme=tokyonight&hide_border=true&background=0D1117&ring=38b2ac&fire=38b2ac&currStreakNum=38b2ac" width="93%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tahaaamirsheikh99-pixel&theme=tokyonight&hide_border=true&background=0D1117&ring=007ACC&fire=007ACC&currStreakNum=007ACC" width="95%" />
 </p>
 
 ---
 
-### 📖 Personal Interests
-Outside of technical architecture, I am an avid reader of contemporary fiction. I find that deep storytelling in literature helps me build more empathetic and human-centric software solutions.
+### <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/book-marked.svg" width="22" height="22" /> Personal Interests
+Outside of system architecture, I am an avid reader of contemporary fiction. I believe that analyzing complex narratives in literature directly translates to writing more intuitive and human-centric software.
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/github.svg" width="20" height="20" /> 
+<p align="right">
+  <sub><i>Last updated: April 2026</i></sub>
 </p>
