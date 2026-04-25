@@ -1,49 +1,80 @@
 <div align="center">
 
-# TAHA AAMIR SHEIKH
-**Frontend Engineer • Next.js & TypeScript Specialist**
+# Taha Aamir Sheikh
 
-<p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-</p>
+### Frontend Developer | React • Next.js • TypeScript
 
-[**Website**](https://taha-sparkle-port.vercel.app/) • [**LinkedIn**](https://www.linkedin.com/in/taha-aamir-sheikh/) • [**Email**](mailto:tahaaamirsheikh99@gmail.com)
+Building modern, scalable and beautiful web apps with clean code.
+
+[Portfolio](https://taha-sparkle-port.vercel.app/) • 
+[LinkedIn](https://www.linkedin.com/in/taha-aamir-sheikh/) • 
+[Email](mailto:tahaaamirsheikh99@gmail.com)
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,nodejs,mongodb,express,git,vscode,vercel&perline=10" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,git,github,vscode,vercel" />
 
 </div>
 
 ---
 
-### ⚡ Architectural Focus
-I am a **Frontend Developer** and an intern at **Naqvid**, currently pursuing studies at **NUML**. I bridge the gap between complex backend logic and sleek, user-centric interfaces. My current workflow is centered around **TypeScript** and **Next.js 14**, ensuring type-safety and performance at scale.
+## 🚀 About Me
+
+- Frontend Developer focused on **React + Next.js ecosystem**
+- Currently Intern @ **Naqvid**
+- Studying at **NUML**
+- Passionate about turning ideas into polished products
+- Love performance optimization, UI/UX, responsive design
 
 ---
 
-### 🛠️ Technical Ecosystem
-| Core Stack | Tools & Deployment |
-| :--- | :--- |
-| **Frontend:** Next.js (App Router), React 18, TypeScript | **Version Control:** Git, GitHub Actions |
-| **Styling:** Tailwind CSS, Framer Motion, Radix UI | **Infrastructure:** Vercel, Netlify |
-| **Backend:** Node.js, Express.js, MongoDB | **Testing:** Postman, Jest |
+## 🛠 Tech Stack
+
+### Frontend
+React.js • Next.js • TypeScript • JavaScript • Tailwind CSS
+
+### Backend
+Node.js • Express.js • MongoDB
+
+### Tools
+Git • GitHub • Postman • Vercel • VS Code
 
 ---
 
-### 📊 Engineering Metrics
+## 📌 Featured Projects
+
+### 🔹 Portfolio Website
+Modern personal portfolio with animations & responsive design.
+
+### 🔹 Full Stack App
+Authentication, dashboard, API integration using MERN stack.
+
+### 🔹 UI Components Library
+Reusable modern components built with Tailwind CSS.
+
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tahaaamirsheikh99-pixel&show_icons=true&theme=transparent&hide_border=true&title_color=38b2ac&icon_color=38b2ac&text_color=ffffff&hide_rank=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahaaamirsheikh99-pixel&layout=compact&theme=transparent&hide_border=true&title_color=38b2ac&text_color=ffffff&langs_count=5" width="45%" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=tahaaamirsheikh99-pixel&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahaaamirsheikh99-pixel&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+
 </div>
 
 ---
 
-### 📖 Personal Philosophy
-Beyond system architecture, I find inspiration in contemporary fiction. I believe that the narrative depth found in literature directly informs how we build more intuitive, human-centric software solutions.
+## ⚡ Current Focus
 
-<p align="right">
-  <sub><i>Refined by Taha Aamir // 2026</i></sub>
-</p>
+- Advanced React Patterns  
+- Scalable Frontend Architecture  
+- Full Stack Development  
+- Freelance Opportunities  
+
+---
+
+## 🤝 Let's Connect
+
+I'm always open to collaborations, internships, freelance work, and exciting ideas.
