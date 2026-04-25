@@ -11,7 +11,7 @@ Building scalable, high-performance web applications with a TypeScript-first wor
 [Email](mailto:tahaaamirsheikh99@gmail.com)
 
 <br/>
-<br/><br/>
+
 
 <img src="https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,nodejs,express,mongodb,git,github,vercel" />
 
