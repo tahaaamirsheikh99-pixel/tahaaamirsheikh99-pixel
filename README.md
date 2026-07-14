@@ -1,21 +1,93 @@
-<div align="center">
+<h1 align="center">Taha Aamir Sheikh</h1>
 
-# Taha Aamir Sheikh
+```
+           :=-.                                                                .
+           :=-.                  ........                                      .
+           :=-.              .-=*#####%%%#*+-                                  .
+           :=-.           :=*##*##%%%%@@@@@@@%-                                .
+           .=-.         .+###%%%%%%@@@@@@@@@@%*                                .
+::.        .--.        :#%%%%%@@%%%#+=--===+#*                                 .
+--:.       :--.       .%@@@@@@@@@#-.     ....*=                              .  
+=-:      .:---.       -@@@@@@@@@+.          .:*                                .
+=-.     .::---.       -@@@@@@@#-.   .:--:..:==-                               ..
+==:.....:::---.        -@@%#*=.  .:=**%@@+=##%#+#.                            .:
+==------:-----:         -++==-.  .:+%@@%#=.#@@#=*.                             :
+==-------=----:         ::-:.-.    .-==-:. .++=.:                              :
+==---==+++=---:          .:..::.     ....::-:.:                                .
+------===-----:            .:::.....  ...--=-::                                .
+          ..--:             .::...::..----===-:                                 
+           .--:               ::::::.::.:-+=--.                                 
+           .--:                .:------:::---:                                  
+           .:-:           .=:   .:-+**#%%#%%#:.                                 
+          .::-:        .:-+#=:    .:=#%@@@@@@%##**+-:.                         .
+       ..:::::.   .:=+*****#+=-.  .:-=%@@%@@@@%%%%@%%#*=-::.                   .
+      .:---:--===+****#*+++**+%+.     +@@@@%%%%%##%%#####*****.                .
+     ..:::=++++************+%@@@*:   :*@@@#########***#######%+                :
+     ....=*#**************++#%*#%@#*%@@%%%######%###########%@%-               :
+.  ......+*#*************+++*%+=++*%#*++#**#***%#***########%%@%- .....       .-
+        -**##******+++***++++%#===#*====#*****##*****#####%%@@@@%- ..:..      .-
+       :***##*******+++*+++++#%+-**====+*****##*****##%##%@@@@@@%%-....       :-
+ ...  .+####%*******+++++++++*%*=#*===-+*##**%****##%%%%%@@@@@@%@@#:..       .::
+ ..   =**#%%@#*******+++++++++%#=#+=-==+*###%#####%%%%%%@@@@@@@@%%@#: ...   ..::
+..   :****#%@%#*******++**++++#%+#*--==*###@#####%%%%%@@@@@@@@@@@@@%#- .    ....
+-   .+*#####%@%##*****++++++++*@%##==++*##@@%#%%%%%%@@@@@@@@@@@@%%@@@#.  .::::::
+:  .=***####%@@%#**************%@%%*++**#@@%##%%%%%@@@@@@@@%%%%%%@@@%@*--======-
+:...+##***##%@@%%##*****##%%%###@%%#*+**@@%###%%%@@@@@@@@@@%%@%@@@@@@@%#%#*=--==
+.. .+******#%@@@@%%%##****##%%%##@@#*+*@@%####%%@@@@@@@@@@@@%%%@@@@%@@@%%%%*-::-
+ . -**+**#%@@@@@%###%%%##****#%%##@@+*@@@####%@@@@@@@@@@@@@@%@@@@@@@@@@#:-+=-:..
+ ..=****###%@@@@@%###%%%%%##**#%%%@#*@@@###%@@@@@@@@@@@@@#%@@%%@%%@@@@@#..::....
+  .**######@@@@%@%%%%%%##########@@%@@%##%%@%%%@@@@@@@@@@#*@@%%%%%%%%@@@:.:.....
+  -*++****#@@@@-@%@@%%%###%%%%%%#%%@%%##%%%%%%@@@@@@@@@@%:.-#@%%%@@@@@@@-::...::
+  =******%@@@@+ =@%#***#%%###%%####**##%###%%%%%%@@@@@@@#   -@@@@@%%#%@@*::.....
+ .***###%%@@@@: -@%###########*++*%##########%%%@@@@@@@@%---@@@@@@@%%@@@#.... ..
+ -###%%%%%@@@+. :@##%%@@%%##*++*#%#%%%%##*##%%@@@@@@@@@@%--:%@@@%%#%@@@@*       
+.:*####**#@@@:..=%%@@%##**+++*#%%#%%%%#***#%@@@@@@@@@@@@%:. =@%###%@@@@@-  .....
+::+#****%@@@@:. =%%###******###***%%%#**#%@%%%%%%@@@@@@@%...-@%%%@@@@@@@: .....:
+=-+#**##%%%@@=  *@##*#****##******%%#**#%%%%%%%@@@@@@@@@@.  *@%%@@@@@@@#...::...
+++=*#**#%%#%@#:.%@%#######*******#%###%%%%%%%%@@@@@@@@@@@- .@@%%%%@@@@@*==---:.:
+**=+**###**@@@+:@@#####*##**####%%*+*%%#%%%%%%%%%@%@@@@@@* :@@%%@@@@@%+==+=:--=+
+**+=*#**+*@@@@%#@@%#####**####%%#****#######%%%%@@@@@@@@@@=+@%%%%%%%%#......:=++
+*+==+%%#*%@%@@@@@@%%######%%%%%*****##%%%%%%@@@@@@@@@@@@@@@%@@@%%@@@@*:--...:---
+=-:::##*#%%%%@@@@@@%###%%@@@%#***##*##%%%@@@%%%#####%@@@@@%%%%%@@@@@@=::::...:::
+     :####*#@@@@@@@%%@@@@@%#****#%#######%%@@@%%%%#%@@@@@@@@%%%%@@@@*           
+. ...:*#%#####@@@@@@@@@%##****##%%##############%##@@@@%@%%%%%%@@@@#            
+::::::=%%#%%%%@@@@@@@%###**###%%%##%%%%#####***###%@@@%@@%##%@@@@@*             
+::::::-*%%###%@%%@@@@%#####%%%%%###@@%%%%%###****#%@%#@@%%%*#@@@@*              
+.....::-##*#%#**%@@@@@%##%%%%%%####@@@%%%%%%%###%%%##@@@#*%#*#@@=               
+     .. -%%##*###%@@@@@%%%%%%%####@@@@@@@@@@@@%%%%%%@@@@#*#%%@#:                
+         +%%#####*+=:=@@%%%%#####%@@@@@@@@@@@@@@@@@@@@%##%@@#:                  
+          #%#*-.  .=  +@@%%###%%%%@@@@@@@@@@@@@@@@@@@%#%@@@%                    
+          :=:     .#+  *@%%%%%%%%@@@@@@@@@@@@@@@@@@@@@@@@@@%                    
+             ..... .:...*@%%%%%%@@@@@@@@@@@@@@@@@@@@@@@@@@@%                    
+             =+-::::-#%+#@@%%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#                    
+             +@%%#%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@+                    
+             =%%%@@@@@@@@@@@@@@@@@@%.*@@@@@@@@@@@@@@@@@@@@@-         ...        
+             -%%%%@@@@@@@@@@@@@@@@@+  +@@@@@@@@@@@@@@@@@@@@-                    
+             .%%%%@@@@@@@@@@@@@@@@@.   *@@@@@@@@@@@@@@@@@@@:                    
+              +%%%@@@@@@@@@@@@@@@@*    .%@@@@@@%%%%@@@@@@@@:                    
+              :%%%@@@@@@@@@@@@@@@@.     =@@@@@@%%%%@@@@@@@@:                    
+               #@%@@@@@@@@@@@@@@@%       %@@@@@@@@@@@@@@@@@=                    
+               :@%@@@@@@@@@@@@@@@*       :@@@@@@@@%@@@@@@@@*                    
+                =%@@@@@@@@@@@@@@@=        #@@@@@@@%@@@@@@@@#               ...  
+                 *%@@@@@@@@@@@@@@.        :@@@@@%%%@@@@@@@@=                    
+                 +%@@@@@@@@@@@@@+          #@@@@@%%@@@@@@@@.                    
+                 +%@@@@@@@@@@@@*           -@@@@@@@@@@@@@@@.                    
+```
 
-### Frontend Engineer | TypeScript • Next.js • React
 
-Building scalable, high-performance web applications with a TypeScript-first workflow.
+<p align="center"><b>Frontend Engineer | TypeScript • Next.js • React</b></p>
 
-[Portfolio](https://taha-sparkle-port.vercel.app/) •
-[LinkedIn](https://www.linkedin.com/in/taha-aamir-sheikh/) •
-[Email](mailto:tahaaamirsheikh99@gmail.com)
+<p align="center">Building scalable, high-performance web applications with a TypeScript-first workflow.</p>
 
-<br/>
+<p align="center">
+  <a href="https://taha-sparkle-port.vercel.app/">Portfolio</a> •
+  <a href="https://linkedin.com/in/taha-aamir-sheikh">LinkedIn</a> •
+  <a href="mailto:tahaaamirsheikh99@gmail.com">Email</a>
+</p>
 
-
-<img src="https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,nodejs,express,mongodb,git,github,vercel" />
-
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,nodejs,express,vercel,git,github,postman&perline=10" />
+</p>
 
 ---
 
@@ -31,23 +103,23 @@ Currently working as an Intern at Naqvid while pursuing studies at NUML.
 
 ## Core Expertise
 
-| Area | Technologies |
-|------|--------------|
-| Primary Language | TypeScript |
-| Frontend Engineering | React, Next.js, JavaScript |
-| UI Systems | Tailwind CSS, Responsive Design |
-| Backend Integration | Node.js, Express.js, MongoDB |
-| Tooling | Git, GitHub, Postman, Vercel |
+| Area                | Technologies                    |
+| ------------------- | ------------------------------- |
+| Primary Language    | TypeScript                      |
+| Frontend Engineering| React, Next.js, JavaScript      |
+| UI Systems          | Tailwind CSS, Responsive Design |
+| Backend Integration | Node.js, Express.js, MongoDB    |
+| Tooling             | Git, GitHub, Postman, Vercel    |
 
 ---
 
 ## TypeScript Focus
 
-- Strong typing for scalable applications  
-- Reusable component architecture  
-- Safer API integration patterns  
-- Clean maintainable codebases  
-- Better developer experience and reliability  
+- Strong typing for scalable applications
+- Reusable component architecture
+- Safer API integration patterns
+- Clean maintainable codebases
+- Better developer experience and reliability
 
 ---
 
@@ -66,25 +138,22 @@ Typed and reusable components designed for rapid development.
 
 ## GitHub Analytics
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=tahaaamirsheikh99-pixel&show_icons=true&theme=transparent&hide_border=true&title_color=3178C6&icon_color=3178C6&text_color=c9d1d9" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahaaamirsheikh99-pixel&layout=compact&theme=transparent&hide_border=true&langs_count=8&hide=html,css&custom_title=Development%20Stack&title_color=3178C6&text_color=c9d1d9" width="48%" />
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tahaaamirsheikh99-pixel&show_icons=true&theme=dark&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahaaamirsheikh99-pixel&layout=compact&theme=dark&hide_border=true" height="165" />
+</p>
 
 ---
 
 ## Current Direction
 
-Advanced TypeScript Patterns  
-Scalable Frontend Systems  
-Next.js Production Applications  
-Open Opportunities
+- Advanced TypeScript Patterns
+- Scalable Frontend Systems
+- Next.js Production Applications
+- Open Opportunities
 
 ---
 
-## Contact
+## 🔗 Contact
 
 Open to internships, freelance work, collaborations, and frontend engineering opportunities.
